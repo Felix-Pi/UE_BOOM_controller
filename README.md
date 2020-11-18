@@ -7,11 +7,11 @@ Python script for controlling (turn ON/OFF) ue boom speaker and getting its curr
 gatttool
 ```
 
-usefull links: 
+### usefull links: 
 * https://www.jaredwolff.com/get-started-with-bluetooth-low-energy/
 * https://github.com/pcborenstein/bluezDoc/wiki/hcitool-and-gatttool-example
 
-##How to use
+## How to use
 ```python
 boom = Boom('DEVICE_MAC', 'CLIENT_MAC')
 #DEVICE_MAC: speakers MAC address, format: XX:XX:XX:XX:XX:XX
