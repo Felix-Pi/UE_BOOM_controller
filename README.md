@@ -1,7 +1,7 @@
 # UE_BOOM_controller
 > Python script for controlling (turn ON/OFF) ue boom speaker and getting its current battery level. (Tested on ue boom version 1)
 
-### Prerequisites
+## Prerequisites
 
 ```
 gatttool
