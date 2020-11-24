@@ -1,5 +1,5 @@
 # UE_BOOM_controller
-Python script for controlling (turn ON/OFF) ue boom speaker and getting its current battery level. (Tested on ue boom version 1)
+> Python script for controlling (turn ON/OFF) ue boom speaker and getting its current battery level. (Tested on ue boom version 1)
 
 ### Prerequisites
 
@@ -49,5 +49,5 @@ battery_level = boom.get_battery() #returns speakers battery level
 `0x2a19` service handle
 
 
-## Sources
+## Credits
 Source of gatttool commands: https://www.reddit.com/r/shortcuts/comments/dz9zun/finally_turn_on_ue_boom_bluetooth_speaker/
